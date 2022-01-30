@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+}
+
+h1 {
+  color: #b8405e;
+  text-align: center;
+}
+
+a {
+  margin-left: 10px;
+}
+
+h2 {
+  color: #fc28fb;
+}
+
+.acıklama {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.ürünler {
+  color: #d67d3e;
+  font-size: larger;
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+li {
+  font-weight: 500;
+}

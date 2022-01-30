@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-weight: 500;
+}
+
+h1 {
+  color: #b8405e;
+  text-align: center;
+}
+
+.hakkımızda {
+  margin-top: 50px;
+}
+
+a {
+  margin-top: 50px;
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.baslik {
+  font-size: 2em;
+  margin-top: 50px;
+  color: #7a0bc0;
+}
+
+img {
+  width: 50%;
+  height: 425px;
+}
+
+ol {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.images {
+  width: 45%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  font-size: 1.25em;
+  font-weight: 700;
+}

@@ -1,0 +1,37 @@
+h1 {
+  color: #b8405e;
+  text-align: center;
+}
+
+a {
+  margin-left: 10px;
+}
+
+h2 {
+  color: #fc28fb;
+}
+
+.hakkımızda {
+  margin-top: 30px;
+  font-size: 1.2em;
+  font-weight: bold;
+  height: 25px;
+  text-align: center;
+}
+
+.baslik {
+  margin-top: 30px;
+  text-align: center;
+  font-weight: 800;
+}
+
+h3 {
+  font-weight: bold;
+  color: #325288;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.12em;
+  font-weight: lighter;
+}
